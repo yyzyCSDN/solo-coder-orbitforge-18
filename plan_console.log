@@ -1,0 +1,404 @@
+Searching [1000.0, 1200.0] km x inc [53.0, 83.0] deg, P in [6, 7, 9], sats/plane in [8, 10]
+[  1/216] Walker-48/6/0@1000km-53.0deg                   reject:geometric
+[  2/216] Walker-48/6/1@1000km-53.0deg                   reject:geometric
+[  3/216] Walker-48/6/2@1000km-53.0deg                   reject:geometric
+[  4/216] Walker-48/6/3@1000km-53.0deg                   reject:geometric
+[  5/216] Walker-48/6/4@1000km-53.0deg                   reject:geometric
+[  6/216] Walker-48/6/5@1000km-53.0deg                   reject:geometric
+[  7/216] Walker-48/6/6@1000km-53.0deg                   reject:geometric
+[  8/216] Walker-48/6/7@1000km-53.0deg                   reject:geometric
+[  9/216] Walker-60/6/0@1000km-53.0deg                   reject:geometric
+[ 10/216] Walker-60/6/1@1000km-53.0deg                   reject:geometric
+[ 11/216] Walker-60/6/2@1000km-53.0deg                   reject:geometric
+[ 12/216] Walker-60/6/3@1000km-53.0deg                   reject:geometric
+[ 13/216] Walker-60/6/4@1000km-53.0deg                   reject:geometric
+[ 14/216] Walker-60/6/5@1000km-53.0deg                   reject:geometric
+[ 15/216] Walker-60/6/6@1000km-53.0deg                   reject:geometric
+[ 16/216] Walker-60/6/7@1000km-53.0deg                   reject:geometric
+[ 17/216] Walker-60/6/8@1000km-53.0deg                   reject:geometric
+[ 18/216] Walker-60/6/9@1000km-53.0deg                   reject:geometric
+[ 19/216] Walker-56/7/0@1000km-53.0deg                   reject:geometric
+[ 20/216] Walker-56/7/1@1000km-53.0deg                   reject:geometric
+[ 21/216] Walker-56/7/2@1000km-53.0deg                   reject:geometric
+[ 22/216] Walker-56/7/3@1000km-53.0deg                   reject:geometric
+[ 23/216] Walker-56/7/4@1000km-53.0deg                   reject:geometric
+[ 24/216] Walker-56/7/5@1000km-53.0deg                   reject:geometric
+[ 25/216] Walker-56/7/6@1000km-53.0deg                   reject:geometric
+[ 26/216] Walker-56/7/7@1000km-53.0deg                   reject:geometric
+[ 27/216] Walker-70/7/0@1000km-53.0deg                   reject:geometric
+[ 28/216] Walker-70/7/1@1000km-53.0deg                   reject:geometric
+[ 29/216] Walker-70/7/2@1000km-53.0deg                   reject:geometric
+[ 30/216] Walker-70/7/3@1000km-53.0deg                   reject:geometric
+[ 31/216] Walker-70/7/4@1000km-53.0deg                   reject:geometric
+[ 32/216] Walker-70/7/5@1000km-53.0deg                   reject:geometric
+[ 33/216] Walker-70/7/6@1000km-53.0deg                   reject:geometric
+[ 34/216] Walker-70/7/7@1000km-53.0deg                   reject:geometric
+[ 35/216] Walker-70/7/8@1000km-53.0deg                   reject:geometric
+[ 36/216] Walker-70/7/9@1000km-53.0deg                   reject:geometric
+[ 37/216] Walker-72/9/0@1000km-53.0deg                   reject:geometric
+[ 38/216] Walker-72/9/1@1000km-53.0deg                   reject:geometric
+[ 39/216] Walker-72/9/2@1000km-53.0deg                   reject:geometric
+[ 40/216] Walker-72/9/3@1000km-53.0deg                   reject:geometric
+[ 41/216] Walker-72/9/4@1000km-53.0deg                   reject:geometric
+[ 42/216] Walker-72/9/5@1000km-53.0deg                   reject:geometric
+[ 43/216] Walker-72/9/6@1000km-53.0deg                   reject:geometric
+[ 44/216] Walker-72/9/7@1000km-53.0deg                   reject:geometric
+[ 45/216] Walker-90/9/0@1000km-53.0deg                   reject:geometric
+[ 46/216] Walker-90/9/1@1000km-53.0deg                   reject:geometric
+[ 47/216] Walker-90/9/2@1000km-53.0deg                   reject:geometric
+[ 48/216] Walker-90/9/3@1000km-53.0deg                   reject:geometric
+[ 49/216] Walker-90/9/4@1000km-53.0deg                   reject:geometric
+[ 50/216] Walker-90/9/5@1000km-53.0deg                   reject:geometric
+[ 51/216] Walker-90/9/6@1000km-53.0deg                   reject:geometric
+[ 52/216] Walker-90/9/7@1000km-53.0deg                   reject:geometric
+[ 53/216] Walker-90/9/8@1000km-53.0deg                   reject:geometric
+[ 54/216] Walker-90/9/9@1000km-53.0deg                   reject:geometric
+[ 55/216] Walker-48/6/0@1000km-83.0deg                   reject:simulation
+[ 56/216] Walker-48/6/1@1000km-83.0deg                   reject:simulation
+[ 57/216] Walker-48/6/2@1000km-83.0deg                   reject:simulation
+[ 58/216] Walker-48/6/3@1000km-83.0deg                   reject:simulation
+[ 59/216] Walker-48/6/4@1000km-83.0deg                   reject:simulation
+[ 60/216] Walker-48/6/5@1000km-83.0deg                   reject:simulation
+[ 61/216] Walker-48/6/6@1000km-83.0deg                   reject:simulation
+[ 62/216] Walker-48/6/7@1000km-83.0deg                   reject:simulation
+[ 63/216] Walker-60/6/0@1000km-83.0deg                   reject:simulation
+[ 64/216] Walker-60/6/1@1000km-83.0deg                   reject:simulation
+[ 65/216] Walker-60/6/2@1000km-83.0deg                   reject:simulation
+[ 66/216] Walker-60/6/3@1000km-83.0deg                   reject:simulation
+[ 67/216] Walker-60/6/4@1000km-83.0deg                   reject:simulation
+[ 68/216] Walker-60/6/5@1000km-83.0deg                   reject:simulation
+[ 69/216] Walker-60/6/6@1000km-83.0deg                   reject:simulation
+[ 70/216] Walker-60/6/7@1000km-83.0deg                   reject:simulation
+[ 71/216] Walker-60/6/8@1000km-83.0deg                   reject:simulation
+[ 72/216] Walker-60/6/9@1000km-83.0deg                   reject:simulation
+[ 73/216] Walker-56/7/0@1000km-83.0deg                   reject:simulation
+[ 74/216] Walker-56/7/1@1000km-83.0deg                   reject:simulation
+[ 75/216] Walker-56/7/2@1000km-83.0deg                   reject:simulation
+[ 76/216] Walker-56/7/3@1000km-83.0deg                   reject:simulation
+[ 77/216] Walker-56/7/4@1000km-83.0deg                   reject:simulation
+[ 78/216] Walker-56/7/5@1000km-83.0deg                   reject:simulation
+[ 79/216] Walker-56/7/6@1000km-83.0deg                   reject:simulation
+[ 80/216] Walker-56/7/7@1000km-83.0deg                   reject:simulation
+[ 81/216] Walker-70/7/0@1000km-83.0deg                   ACCEPT
+[ 82/216] Walker-70/7/1@1000km-83.0deg                   ACCEPT
+[ 83/216] Walker-70/7/2@1000km-83.0deg                   ACCEPT
+[ 84/216] Walker-70/7/3@1000km-83.0deg                   ACCEPT
+[ 85/216] Walker-70/7/4@1000km-83.0deg                   ACCEPT
+[ 86/216] Walker-70/7/5@1000km-83.0deg                   ACCEPT
+[ 87/216] Walker-70/7/6@1000km-83.0deg                   ACCEPT
+[ 88/216] Walker-70/7/7@1000km-83.0deg                   ACCEPT
+[ 89/216] Walker-70/7/8@1000km-83.0deg                   ACCEPT
+[ 90/216] Walker-70/7/9@1000km-83.0deg                   ACCEPT
+[ 91/216] Walker-72/9/0@1000km-83.0deg                   reject:simulation
+[ 92/216] Walker-72/9/1@1000km-83.0deg                   reject:simulation
+[ 93/216] Walker-72/9/2@1000km-83.0deg                   reject:simulation
+[ 94/216] Walker-72/9/3@1000km-83.0deg                   reject:simulation
+[ 95/216] Walker-72/9/4@1000km-83.0deg                   reject:simulation
+[ 96/216] Walker-72/9/5@1000km-83.0deg                   reject:simulation
+[ 97/216] Walker-72/9/6@1000km-83.0deg                   reject:simulation
+[ 98/216] Walker-72/9/7@1000km-83.0deg                   reject:simulation
+[ 99/216] Walker-90/9/0@1000km-83.0deg                   ACCEPT
+[100/216] Walker-90/9/1@1000km-83.0deg                   ACCEPT
+[101/216] Walker-90/9/2@1000km-83.0deg                   ACCEPT
+[102/216] Walker-90/9/3@1000km-83.0deg                   ACCEPT
+[103/216] Walker-90/9/4@1000km-83.0deg                   ACCEPT
+[104/216] Walker-90/9/5@1000km-83.0deg                   ACCEPT
+[105/216] Walker-90/9/6@1000km-83.0deg                   ACCEPT
+[106/216] Walker-90/9/7@1000km-83.0deg                   ACCEPT
+[107/216] Walker-90/9/8@1000km-83.0deg                   ACCEPT
+[108/216] Walker-90/9/9@1000km-83.0deg                   ACCEPT
+[109/216] Walker-48/6/0@1200km-53.0deg                   reject:geometric
+[110/216] Walker-48/6/1@1200km-53.0deg                   reject:geometric
+[111/216] Walker-48/6/2@1200km-53.0deg                   reject:geometric
+[112/216] Walker-48/6/3@1200km-53.0deg                   reject:geometric
+[113/216] Walker-48/6/4@1200km-53.0deg                   reject:geometric
+[114/216] Walker-48/6/5@1200km-53.0deg                   reject:geometric
+[115/216] Walker-48/6/6@1200km-53.0deg                   reject:geometric
+[116/216] Walker-48/6/7@1200km-53.0deg                   reject:geometric
+[117/216] Walker-60/6/0@1200km-53.0deg                   reject:geometric
+[118/216] Walker-60/6/1@1200km-53.0deg                   reject:geometric
+[119/216] Walker-60/6/2@1200km-53.0deg                   reject:geometric
+[120/216] Walker-60/6/3@1200km-53.0deg                   reject:geometric
+[121/216] Walker-60/6/4@1200km-53.0deg                   reject:geometric
+[122/216] Walker-60/6/5@1200km-53.0deg                   reject:geometric
+[123/216] Walker-60/6/6@1200km-53.0deg                   reject:geometric
+[124/216] Walker-60/6/7@1200km-53.0deg                   reject:geometric
+[125/216] Walker-60/6/8@1200km-53.0deg                   reject:geometric
+[126/216] Walker-60/6/9@1200km-53.0deg                   reject:geometric
+[127/216] Walker-56/7/0@1200km-53.0deg                   reject:geometric
+[128/216] Walker-56/7/1@1200km-53.0deg                   reject:geometric
+[129/216] Walker-56/7/2@1200km-53.0deg                   reject:geometric
+[130/216] Walker-56/7/3@1200km-53.0deg                   reject:geometric
+[131/216] Walker-56/7/4@1200km-53.0deg                   reject:geometric
+[132/216] Walker-56/7/5@1200km-53.0deg                   reject:geometric
+[133/216] Walker-56/7/6@1200km-53.0deg                   reject:geometric
+[134/216] Walker-56/7/7@1200km-53.0deg                   reject:geometric
+[135/216] Walker-70/7/0@1200km-53.0deg                   reject:geometric
+[136/216] Walker-70/7/1@1200km-53.0deg                   reject:geometric
+[137/216] Walker-70/7/2@1200km-53.0deg                   reject:geometric
+[138/216] Walker-70/7/3@1200km-53.0deg                   reject:geometric
+[139/216] Walker-70/7/4@1200km-53.0deg                   reject:geometric
+[140/216] Walker-70/7/5@1200km-53.0deg                   reject:geometric
+[141/216] Walker-70/7/6@1200km-53.0deg                   reject:geometric
+[142/216] Walker-70/7/7@1200km-53.0deg                   reject:geometric
+[143/216] Walker-70/7/8@1200km-53.0deg                   reject:geometric
+[144/216] Walker-70/7/9@1200km-53.0deg                   reject:geometric
+[145/216] Walker-72/9/0@1200km-53.0deg                   reject:geometric
+[146/216] Walker-72/9/1@1200km-53.0deg                   reject:geometric
+[147/216] Walker-72/9/2@1200km-53.0deg                   reject:geometric
+[148/216] Walker-72/9/3@1200km-53.0deg                   reject:geometric
+[149/216] Walker-72/9/4@1200km-53.0deg                   reject:geometric
+[150/216] Walker-72/9/5@1200km-53.0deg                   reject:geometric
+[151/216] Walker-72/9/6@1200km-53.0deg                   reject:geometric
+[152/216] Walker-72/9/7@1200km-53.0deg                   reject:geometric
+[153/216] Walker-90/9/0@1200km-53.0deg                   reject:geometric
+[154/216] Walker-90/9/1@1200km-53.0deg                   reject:geometric
+[155/216] Walker-90/9/2@1200km-53.0deg                   reject:geometric
+[156/216] Walker-90/9/3@1200km-53.0deg                   reject:geometric
+[157/216] Walker-90/9/4@1200km-53.0deg                   reject:geometric
+[158/216] Walker-90/9/5@1200km-53.0deg                   reject:geometric
+[159/216] Walker-90/9/6@1200km-53.0deg                   reject:geometric
+[160/216] Walker-90/9/7@1200km-53.0deg                   reject:geometric
+[161/216] Walker-90/9/8@1200km-53.0deg                   reject:geometric
+[162/216] Walker-90/9/9@1200km-53.0deg                   reject:geometric
+[163/216] Walker-48/6/0@1200km-83.0deg                   reject:simulation
+[164/216] Walker-48/6/1@1200km-83.0deg                   reject:simulation
+[165/216] Walker-48/6/2@1200km-83.0deg                   reject:simulation
+[166/216] Walker-48/6/3@1200km-83.0deg                   reject:simulation
+[167/216] Walker-48/6/4@1200km-83.0deg                   reject:simulation
+[168/216] Walker-48/6/5@1200km-83.0deg                   reject:simulation
+[169/216] Walker-48/6/6@1200km-83.0deg                   reject:simulation
+[170/216] Walker-48/6/7@1200km-83.0deg                   reject:simulation
+[171/216] Walker-60/6/0@1200km-83.0deg                   reject:simulation
+[172/216] Walker-60/6/1@1200km-83.0deg                   reject:simulation
+[173/216] Walker-60/6/2@1200km-83.0deg                   reject:simulation
+[174/216] Walker-60/6/3@1200km-83.0deg                   reject:simulation
+[175/216] Walker-60/6/4@1200km-83.0deg                   reject:simulation
+[176/216] Walker-60/6/5@1200km-83.0deg                   reject:simulation
+[177/216] Walker-60/6/6@1200km-83.0deg                   reject:simulation
+[178/216] Walker-60/6/7@1200km-83.0deg                   reject:simulation
+[179/216] Walker-60/6/8@1200km-83.0deg                   reject:simulation
+[180/216] Walker-60/6/9@1200km-83.0deg                   reject:simulation
+[181/216] Walker-56/7/0@1200km-83.0deg                   ACCEPT
+[182/216] Walker-56/7/1@1200km-83.0deg                   ACCEPT
+[183/216] Walker-56/7/2@1200km-83.0deg                   reject:simulation
+[184/216] Walker-56/7/3@1200km-83.0deg                   reject:simulation
+[185/216] Walker-56/7/4@1200km-83.0deg                   ACCEPT
+[186/216] Walker-56/7/5@1200km-83.0deg                   ACCEPT
+[187/216] Walker-56/7/6@1200km-83.0deg                   ACCEPT
+[188/216] Walker-56/7/7@1200km-83.0deg                   ACCEPT
+[189/216] Walker-70/7/0@1200km-83.0deg                   ACCEPT
+[190/216] Walker-70/7/1@1200km-83.0deg                   ACCEPT
+[191/216] Walker-70/7/2@1200km-83.0deg                   ACCEPT
+[192/216] Walker-70/7/3@1200km-83.0deg                   ACCEPT
+[193/216] Walker-70/7/4@1200km-83.0deg                   ACCEPT
+[194/216] Walker-70/7/5@1200km-83.0deg                   ACCEPT
+[195/216] Walker-70/7/6@1200km-83.0deg                   ACCEPT
+[196/216] Walker-70/7/7@1200km-83.0deg                   ACCEPT
+[197/216] Walker-70/7/8@1200km-83.0deg                   ACCEPT
+[198/216] Walker-70/7/9@1200km-83.0deg                   ACCEPT
+[199/216] Walker-72/9/0@1200km-83.0deg                   ACCEPT
+[200/216] Walker-72/9/1@1200km-83.0deg                   ACCEPT
+[201/216] Walker-72/9/2@1200km-83.0deg                   ACCEPT
+[202/216] Walker-72/9/3@1200km-83.0deg                   ACCEPT
+[203/216] Walker-72/9/4@1200km-83.0deg                   ACCEPT
+[204/216] Walker-72/9/5@1200km-83.0deg                   ACCEPT
+[205/216] Walker-72/9/6@1200km-83.0deg                   ACCEPT
+[206/216] Walker-72/9/7@1200km-83.0deg                   ACCEPT
+[207/216] Walker-90/9/0@1200km-83.0deg                   ACCEPT
+[208/216] Walker-90/9/1@1200km-83.0deg                   ACCEPT
+[209/216] Walker-90/9/2@1200km-83.0deg                   ACCEPT
+[210/216] Walker-90/9/3@1200km-83.0deg                   ACCEPT
+[211/216] Walker-90/9/4@1200km-83.0deg                   ACCEPT
+[212/216] Walker-90/9/5@1200km-83.0deg                   ACCEPT
+[213/216] Walker-90/9/6@1200km-83.0deg                   ACCEPT
+[214/216] Walker-90/9/7@1200km-83.0deg                   ACCEPT
+[215/216] Walker-90/9/8@1200km-83.0deg                   ACCEPT
+[216/216] Walker-90/9/9@1200km-83.0deg                   ACCEPT
+
+==============================================================================
+CONSTELLATION SEARCH: 216 candidates, 54 accepted, 162 rejected (232.7 s)
+==============================================================================
+Accepted combinations (ranked):
+  Walker-56/7/0@1200km-83.0deg               T=56   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-56/7/1@1200km-83.0deg               T=56   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-56/7/4@1200km-83.0deg               T=56   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-56/7/5@1200km-83.0deg               T=56   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-56/7/6@1200km-83.0deg               T=56   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-56/7/7@1200km-83.0deg               T=56   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-70/7/0@1000km-83.0deg               T=70   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-70/7/1@1000km-83.0deg               T=70   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-70/7/2@1000km-83.0deg               T=70   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-70/7/3@1000km-83.0deg               T=70   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-70/7/4@1000km-83.0deg               T=70   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+  Walker-70/7/5@1000km-83.0deg               T=70   glob 100.00% gap  0.00h | polar 100.00% gap  0.00h
+
+Rejected at geometry pre-screen: 108
+  - geometric reach 74.6 deg < polar latitude 75 deg (54 patterns)
+      e.g. Walker-48/6/0@1000km-53.0deg, Walker-48/6/1@1000km-53.0deg, Walker-48/6/2@1000km-53.0deg
+  - geometric reach 77.0 deg < 90 deg: global coverage impossible at the required minimum elevation (54 patterns)
+      e.g. Walker-48/6/0@1200km-53.0deg, Walker-48/6/1@1200km-53.0deg, Walker-48/6/2@1200km-53.0deg
+
+Rejected after simulation (54), first 12:
+  x Walker-48/6/0@1000km-83.0deg
+      - global_revisit_gap: worst wait 18.67 h > required 2.00 h
+  x Walker-48/6/1@1000km-83.0deg
+      - global_revisit_gap: worst wait 19.67 h > required 2.00 h
+  x Walker-48/6/2@1000km-83.0deg
+      - global_revisit_gap: worst wait 3.73 h > required 2.00 h
+  x Walker-48/6/3@1000km-83.0deg
+      - global_revisit_gap: worst wait 3.87 h > required 2.00 h
+  x Walker-48/6/4@1000km-83.0deg
+      - global_revisit_gap: worst wait 16.07 h > required 2.00 h
+  x Walker-48/6/5@1000km-83.0deg
+      - global_revisit_gap: 2 cells (0.04% of area) had fewer than two access windows in the simulation: cadence cannot be proven (required worst gap <= 2.00 h)
+      - polar_revisit_gap: 2 cells (0.70% of area) had fewer than two access windows in the simulation: cadence cannot be proven (required worst gap <= 2.00 h)
+  x Walker-48/6/6@1000km-83.0deg
+      - global_revisit_gap: worst wait 18.67 h > required 2.00 h
+  x Walker-48/6/7@1000km-83.0deg
+      - global_revisit_gap: worst wait 19.67 h > required 2.00 h
+  x Walker-60/6/0@1000km-83.0deg
+      - global_revisit_gap: worst wait 4.07 h > required 2.00 h
+  x Walker-60/6/1@1000km-83.0deg
+      - global_revisit_gap: worst wait 4.00 h > required 2.00 h
+  x Walker-60/6/2@1000km-83.0deg
+      - global_revisit_gap: worst wait 4.13 h > required 2.00 h
+  x Walker-60/6/3@1000km-83.0deg
+      - global_revisit_gap: worst wait 4.00 h > required 2.00 h
+
+Fine-grid re-evaluation of the minimum-satellite shortlist ...
+   Walker-56/7/0@1200km-83.0deg                   fails fine grid (cont 96.51%, wait 20.73 h)
+   Walker-56/7/1@1200km-83.0deg                   SURVIVES (cont 100.00%, wait 0.00 h)
+   Walker-56/7/4@1200km-83.0deg                   fails fine grid (cont 93.09%, wait 43.03 h)
+   Walker-56/7/5@1200km-83.0deg                   fails fine grid (cont 96.51%, wait 21.83 h)
+   Walker-56/7/6@1200km-83.0deg                   fails fine grid (cont 99.76%, wait 17.03 h)
+   Walker-56/7/7@1200km-83.0deg                   fails fine grid (cont 96.51%, wait 20.73 h)
+
+Selected after fine verification: Walker-56/7/1@1200km-83.0deg
+==============================================================================
+CONSTELLATION PLAN: Walker-56/7/1@1200km-83.0deg
+==============================================================================
+Walker delta T/P/F = 56/7/1; 8 satellites per plane
+altitude 1200 km | inclination 83.00 deg | eccentricity 0.0 | period 109.42 min
+epoch (TAI s) 0.0
+
+  #     name plane slot      a_km   alt_km   i_deg  RAAN_deg   M0_deg period_min
+------------------------------------------------------------------------------
+  0   S01-01     0    0  7578.137 1200.000  83.000     0.000    0.000    109.422
+  1   S01-02     0    1  7578.137 1200.000  83.000     0.000   45.000    109.422
+  2   S01-03     0    2  7578.137 1200.000  83.000     0.000   90.000    109.422
+  3   S01-04     0    3  7578.137 1200.000  83.000     0.000  135.000    109.422
+  4   S01-05     0    4  7578.137 1200.000  83.000     0.000  180.000    109.422
+  5   S01-06     0    5  7578.137 1200.000  83.000     0.000  225.000    109.422
+  6   S01-07     0    6  7578.137 1200.000  83.000     0.000  270.000    109.422
+  7   S01-08     0    7  7578.137 1200.000  83.000     0.000  315.000    109.422
+  8   S02-01     1    0  7578.137 1200.000  83.000    51.429    6.429    109.422
+  9   S02-02     1    1  7578.137 1200.000  83.000    51.429   51.429    109.422
+ 10   S02-03     1    2  7578.137 1200.000  83.000    51.429   96.429    109.422
+ 11   S02-04     1    3  7578.137 1200.000  83.000    51.429  141.429    109.422
+ 12   S02-05     1    4  7578.137 1200.000  83.000    51.429  186.429    109.422
+ 13   S02-06     1    5  7578.137 1200.000  83.000    51.429  231.429    109.422
+ 14   S02-07     1    6  7578.137 1200.000  83.000    51.429  276.429    109.422
+ 15   S02-08     1    7  7578.137 1200.000  83.000    51.429  321.429    109.422
+ 16   S03-01     2    0  7578.137 1200.000  83.000   102.857   12.857    109.422
+ 17   S03-02     2    1  7578.137 1200.000  83.000   102.857   57.857    109.422
+ 18   S03-03     2    2  7578.137 1200.000  83.000   102.857  102.857    109.422
+ 19   S03-04     2    3  7578.137 1200.000  83.000   102.857  147.857    109.422
+ 20   S03-05     2    4  7578.137 1200.000  83.000   102.857  192.857    109.422
+ 21   S03-06     2    5  7578.137 1200.000  83.000   102.857  237.857    109.422
+ 22   S03-07     2    6  7578.137 1200.000  83.000   102.857  282.857    109.422
+ 23   S03-08     2    7  7578.137 1200.000  83.000   102.857  327.857    109.422
+ 24   S04-01     3    0  7578.137 1200.000  83.000   154.286   19.286    109.422
+ 25   S04-02     3    1  7578.137 1200.000  83.000   154.286   64.286    109.422
+ 26   S04-03     3    2  7578.137 1200.000  83.000   154.286  109.286    109.422
+ 27   S04-04     3    3  7578.137 1200.000  83.000   154.286  154.286    109.422
+ 28   S04-05     3    4  7578.137 1200.000  83.000   154.286  199.286    109.422
+ 29   S04-06     3    5  7578.137 1200.000  83.000   154.286  244.286    109.422
+ 30   S04-07     3    6  7578.137 1200.000  83.000   154.286  289.286    109.422
+ 31   S04-08     3    7  7578.137 1200.000  83.000   154.286  334.286    109.422
+ 32   S05-01     4    0  7578.137 1200.000  83.000   205.714   25.714    109.422
+ 33   S05-02     4    1  7578.137 1200.000  83.000   205.714   70.714    109.422
+ 34   S05-03     4    2  7578.137 1200.000  83.000   205.714  115.714    109.422
+ 35   S05-04     4    3  7578.137 1200.000  83.000   205.714  160.714    109.422
+ 36   S05-05     4    4  7578.137 1200.000  83.000   205.714  205.714    109.422
+ 37   S05-06     4    5  7578.137 1200.000  83.000   205.714  250.714    109.422
+ 38   S05-07     4    6  7578.137 1200.000  83.000   205.714  295.714    109.422
+ 39   S05-08     4    7  7578.137 1200.000  83.000   205.714  340.714    109.422
+ 40   S06-01     5    0  7578.137 1200.000  83.000   257.143   32.143    109.422
+ 41   S06-02     5    1  7578.137 1200.000  83.000   257.143   77.143    109.422
+ 42   S06-03     5    2  7578.137 1200.000  83.000   257.143  122.143    109.422
+ 43   S06-04     5    3  7578.137 1200.000  83.000   257.143  167.143    109.422
+ 44   S06-05     5    4  7578.137 1200.000  83.000   257.143  212.143    109.422
+ 45   S06-06     5    5  7578.137 1200.000  83.000   257.143  257.143    109.422
+ 46   S06-07     5    6  7578.137 1200.000  83.000   257.143  302.143    109.422
+ 47   S06-08     5    7  7578.137 1200.000  83.000   257.143  347.143    109.422
+ 48   S07-01     6    0  7578.137 1200.000  83.000   308.571   38.571    109.422
+ 49   S07-02     6    1  7578.137 1200.000  83.000   308.571   83.571    109.422
+ 50   S07-03     6    2  7578.137 1200.000  83.000   308.571  128.571    109.422
+ 51   S07-04     6    3  7578.137 1200.000  83.000   308.571  173.571    109.422
+ 52   S07-05     6    4  7578.137 1200.000  83.000   308.571  218.571    109.422
+ 53   S07-06     6    5  7578.137 1200.000  83.000   308.571  263.571    109.422
+ 54   S07-07     6    6  7578.137 1200.000  83.000   308.571  308.571    109.422
+ 55   S07-08     6    7  7578.137 1200.000  83.000   308.571  353.571    109.422
+
+Service metrics for Walker-56/7/1@1200km-83.0deg
+  satellites 56 | window 2.00 d | step 120 s | grid 4x4 deg
+  min elevation 10.0 deg | footprint half-angle 24.02 deg | period 109.4 min
+  GLOBAL (4050 cells, 100.0% of global area):
+    ever-served coverage :  100.00 %
+    continuous coverage  :  100.00 %
+    mean instantaneous   :  100.00 %
+    worst revisit gap    :    0.00 h
+    p90 revisit gap      :    0.00 h
+    mean revisit gap     :    0.00 h
+    on-cadence fraction  :  100.00 %
+    worst initial wait   :    0.00 h
+    worst tail wait      :   48.00 h
+    min fold (served)    : 1
+    never-served cells   : 0
+  POLAR CAPS >= 75 (720 cells, 3.9% of global area):
+    ever-served coverage :  100.00 %
+    continuous coverage  :  100.00 %
+    mean instantaneous   :  100.00 %
+    worst revisit gap    :    0.00 h
+    p90 revisit gap      :    0.00 h
+    mean revisit gap     :    0.00 h
+    on-cadence fraction  :  100.00 %
+    worst initial wait   :    0.00 h
+    worst tail wait      :   48.00 h
+    min fold (served)    : 2
+    never-served cells   : 0
+    North polar (360 cells, 1.9% of global area):
+      ever-served coverage :  100.00 %
+      continuous coverage  :  100.00 %
+      mean instantaneous   :  100.00 %
+      worst revisit gap    :    0.00 h
+      p90 revisit gap      :    0.00 h
+      mean revisit gap     :    0.00 h
+      on-cadence fraction  :  100.00 %
+      worst initial wait   :    0.00 h
+      worst tail wait      :   48.00 h
+      min fold (served)    : 2
+      never-served cells   : 0
+    South polar (360 cells, 1.9% of global area):
+      ever-served coverage :  100.00 %
+      continuous coverage  :  100.00 %
+      mean instantaneous   :  100.00 %
+      worst revisit gap    :    0.00 h
+      p90 revisit gap      :    0.00 h
+      mean revisit gap     :    0.00 h
+      on-cadence fraction  :  100.00 %
+      worst initial wait   :    0.00 h
+      worst tail wait      :   48.00 h
+      min fold (served)    : 2
+      never-served cells   : 0
+
+Verdict for Walker-56/7/1@1200km-83.0deg: ACCEPT
+  [PASS] global_ever_coverage
+  [PASS] global_revisit_gap
+  [PASS] polar_ever_coverage
+  [PASS] polar_revisit_gap
+  [warn] edge-of-window wait 48.00 h is counted in the worst service gap; extend the window if this is a campaign boundary artefact
+
+Wrote /workspace/plan_run.json
+Wrote /workspace/plan_run.txt
